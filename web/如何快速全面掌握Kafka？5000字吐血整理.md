@@ -1,7 +1,5 @@
-# 如何快速全面掌握Kafka？5000字吐血整理111
-[如何快速全面掌握Kafka？5000字吐血整理](https://mp.weixin.qq.com/s/9fJchPJa_raHSkvo29bkEA) 
-
-                           如何快速全面掌握Kafka？5000字吐血整理           
+# 如何快速全面掌握Kafka？5000字吐血整理
+[如何快速全面掌握Kafka？5000字吐血整理](https://mp.weixin.qq.com/s/9fJchPJa_raHSkvo29bkEA)       
 
 如何快速全面掌握Kafka？5000字吐血整理
 =======================
